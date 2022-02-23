@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good nevves from Milford-haven certifyed by severall letters, how our forces took 5. peece of ordnance, almost 200. arms, kild 40. and tooke many prisoners, store of powder shot and provisions: also the guarding of that coast and parts of Ireland, with a squadron of ships. Confirmed by a letter from Captaine Richard Swanly, Admirall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41411</idno>
+            <idno type="STC">Wing G1061B</idno>
+            <idno type="STC">ESTC R215537</idno>
+            <idno type="EEBO-CITATION">99827391</idno>
+            <idno type="PROQUEST">99827391</idno>
+            <idno type="VID">31809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1908:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good nevves from Milford-haven certifyed by severall letters, how our forces took 5. peece of ordnance, almost 200. arms, kild 40. and tooke many prisoners, store of powder shot and provisions: also the guarding of that coast and parts of Ireland, with a squadron of ships. Confirmed by a letter from Captaine Richard Swanly, Admirall.</title>
+                  <author>Swanley, Richard, d. 1650.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Jane Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the National Library of Wales, Aberystwyth, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Milford Haven (Wales) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31809:1"/>
+            <!-- PDF PAGE 87 -->
+            <pb facs="tcp:31809:1"/>
+            <!-- PDF PAGE 87 -->
+            <p>GOOD NEVVES FROM Milford-Haven: Certifyed by ſeverall Letters,
+how our Forces took 5. Peece of Ordnance, almoſt 200. arms, Kild 40. and
+tooke many priſoners, ſtore of powder Shot and proviſions: Alſo The
+Guarding of that Coaſt and parts of Ireland, with a Squdron of Ships.
+Confirmed by a Letter from Captaine <hi>Richard Swanly,</hi> Admirall.</p>
+            <p>LONDON, Printed by JANE Coe. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:31809:2"/>
+            <!-- PDF PAGE 88 -->
+            <pb facs="tcp:31809:2"/>
+            <!-- PDF PAGE 88 -->
+            <head>GOOD NEVVES From <hi>MJLFORD-HAVEN.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon Friday October the 19, The Major Generall gave out Orders
+for the ſeverall Regiments in the army, to move towards the place apointed
+for its Randiſuous, but by reaſon of the badneſſe of the weather, it
+could not meet before Munday the 28. of the ſame moneth. When the whole armie
+of horſe and foot met, and were drawne up in a plaine about two miles from
+Langhorne Caſtle, the number of both horſe and foot were about 2000. of
+Foot, <hi>viz.</hi> The Generalls Regi<g ref="char:EOLhyphen"/>ment, Colonell <hi>Kilmady</hi> his
+Regiment: Colonell <hi>Beales</hi> Regiment. And the horſe the Major
+Generalls Troope, and a Troope of horſe and a companie of Dragoones, of the
+Major of Pembrookes, and Colo<g ref="char:EOLhyphen"/>nell <hi>Shefields</hi> Regiment.</p>
+            <p>This night the army was quartered within a mile of the Caſtle,
+But before I tell you of the action of the whole army, I will give you the
+ſucceſſe of a party of horſe commanded by the Major Generall
+him<g ref="char:EOLhyphen"/>ſelfe who were drawne out on Saturday the 26. of October to view the
+Caſtle, their number was but 60. they were charged by the like number of
+Horſe, of the enemies, from the caſtle, they Were gallantly received by our
+horſe, and ſoone repulſed, preſently was taken a Lieve<g ref="char:EOLhyphen"/>tenant, and a
+Cornet ſlaine, 7 Troopers with 14 horſe, a Lieutenant of theirs was
+ſlaine, we had onely one wounded but not very dan<g ref="char:EOLhyphen"/>gerouſly, a Gentleman of
+good worth and valour, Major <hi>Philips.</hi> Thus God gave us an earneſt of
+further ſucceſſe. Tueſday 29. of October, our <pb facs="tcp:31809:3"/>
+               <!-- PDF PAGE 89 -->army
+was drawne up on a plaine mountaine in the face of Langhorne Caſtle, the
+Major Generall ſummond it, there anſwer was peremp<g ref="char:EOLhyphen"/>torie, and reſolute:
+preſently he com nanded out a party of 200. Muskets under Captine
+<hi>Sloman</hi> to take poſſeſſion of the towne and Church, in three or
+four houres, they had not onely gained the towne, but approachad very nigh the
+Caſtle, poſſeſſing all the houſes ad<g ref="char:EOLhyphen"/>joyning to it, about on of the
+clock the Major Generall ſent downe another partie of about 200 Muſkets,
+and with them his Guns, com<g ref="char:EOLhyphen"/>manding the Gunners, to make battery againſt the
+Gatehouſe of the Caſtle, but it was at ſuch a diſtance that the ſhot
+tooke little effect, this night the reſt of the army were commanded backe to
+their quarters, about a mile from the Caſtle. The next morning we marched to
+quar<g ref="char:EOLhyphen"/>ter about the Caſtle, in our March we ſpied two bodies of horſe, of
+the enemies upon an high hill, in ſight both of army, and the Caſtle; The
+Major Generall ſent out parties of Horſe to Intercept any incurſi<g ref="char:EOLhyphen"/>ons
+upon us, and cauſed the foot alſo to be drawn up in their full view, we
+heard no more of them, this night we went into the town, every one receiving
+their quartes, we took the town gate, which did much pleaſure us for battery
+againſt the caſtles gatehouſe, our Major Gene-Generall drew out a good
+party of Horſe, and this day faced Carmarthen the chiefe hold of the Enemy in
+theſe parts, they returned without any oppoſition, he did it the rather in
+regard of their threats to raiſe our ſiege, our guns played hard this day,
+and night, the next day alſo: this day we attempted to fire the gate-houſe
+but could not. On ſatturday the Major Generall called a councell of Warre to
+conſider what farther to doe, ſeeing all our paſt endea<g ref="char:EOLhyphen"/>vours tooke
+ſuch little effect upon the caſtle. It was concluded that this night we
+ſhould fall upon the gatehouſe and a Forte<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which two places was the
+ſtrength of the caſtle and was anſwerably maintained by the Enemy, and
+for that end, orders was ſent out, 200. choſen men under three Captaines
+being allotted to make the aſſault.</p>
+            <p>The Captaines their names was captaine <hi>Floyd,</hi> Captaine
+<hi>Sloman,</hi> and Captaine Lieutenant <hi>Srindy,</hi> all the reſt of the
+Army alſo was drawen out for their ſeconds, every commander attending their
+ſeverall duties according to orders received, about a 11. of the clocke this
+night, which was a very light night, they fell on, they ſoone gained their
+and our hopes, both the Forte, and the gatehouſe; but ſtayed not there, but
+went on to the very walls of the caſtle: I dare ſay, ſeldome was there
+ſeen a greater readineſſe and ſtoutneſſe <pb facs="tcp:31809:3"/>
+               <!-- PDF PAGE 89 -->either
+in Officers, or ſouldiers; then amongſt theſe after two or three houres
+very hot and deſperate ſervice they in the caſtle beat for a parley, it
+was granted.</p>
+            <p>They ſent out Major Alſworth to treat there, tearmes were,
+high to march away with bag and baggadge, colours flying, The Major Generall
+ſoon diſ<g ref="char:EOLhyphen"/>patch him back with his reſolution, that they ſhould only be
+free in their per<g ref="char:EOLhyphen"/>ſons, and ſhould deliver up their Armes and what ever
+elſe was in the caſtle, and gave them a peremptory time to returne their
+anſwer, they did long de<g ref="char:EOLhyphen"/>bate the buſineſſe before they accepted of the
+Major Generals offer. About ſe<g ref="char:EOLhyphen"/>ven of the clock the next morning being the
+ſabbath, your Generall tooke poſſeſſion of the caſtle, he tooke
+160. Armes, two guns, a Sacker and a minion, two or three murthering peeces
+three barrels and an halfe of powder, and 500. weight of ſmall ſhot there
+was good ſtore of batter, corne, cheeſe and bear, very littell benefit to
+the ſouldier contrary to their hopes, who expected large plunder: There was
+in the caſtle, Lieutenant Collonel <hi>Ruſſell,</hi> the owner and
+governour of it. Major, <hi>Alſworth</hi> a citizen captaine <hi>Hinton,</hi>
+and captaine <hi>Fits,</hi> and about 200. common ſouldiers, they marched to
+Carmarthen. Its very obſervable we had very faire weather, all the while we
+lay before the caſtle, and the time we fell on in, by the very Enemy
+themſelves was coufeſſed to be the only time for the gaining of the
+caſtle: They expecting the next day re<g ref="char:EOLhyphen"/>liefe. And indeed the very morning we
+tooke the caſtle, it was informed that the Enemy was upon his march towards
+us, whereupon we preſently marched out to meet them, they no ſooner ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v
+us but ranne away, this caſtle is a very ſtrong caſtle, and was one of
+the holds from whence our forces and the coun<g ref="char:EOLhyphen"/>try received the greateſt
+annoyance the Enemy had another ſtrong Garriſon called Clogaveraine, above
+foure miles from Langhorne, the which the next day after we had taken the
+caſtle they utterly demolliſh, burning the houſe downe to the ground and
+ſlieghting the works we loſt in all about ten men and had wounded about
+thirty, wee took nigh twenty priſoners, how many we ſlew we know not, but
+ſure I am great execution was done in the caſtle, Cap<g ref="char:EOLhyphen"/>taine
+<hi>Hinton,</hi> that was left behinde wounded reports, the Enemy will
+endea<g ref="char:EOLhyphen"/>vour to meet us in the field about Carmarthen, he confeſſed that they
+are not a<g ref="char:EOLhyphen"/>bove 1200. Horſe and foot, and if once they are foyled, all muſt
+be given for loſt.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:31809:4"/>
+            <!-- PDF PAGE 90 -->
+            <head>A Conciſe Journall,</head>
+            <argument>
+               <p> Or Diarie Relation of Paſſages, ſince the Order for the
+Advance of the Armie, rayſed in the Conn<g ref="char:EOLhyphen"/>tie of Pembroke under the Command of
+the Honourable, Major Generall <hi>Langhorne,</hi> by the ſpeciall
+aſsiſtance of the Right Worſhipfull, Captaine <hi>Richard Swanley,</hi>
+Admirall of the <hi>Jriſh</hi> Seas, Ordered in a Squadron of Ships; in
+ſervice of King and Parliament for the Guard of that Coaſt, and parts of
+<hi>Jreland,</hi> in due obe<g ref="char:EOLhyphen"/>dience to the State, <hi>viz.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">C</seg>Aptaine <hi>Richard Swanley,</hi> Admirall arived the ninth of
+September, being of the Committee for the Ne-Negotiating the affaires of the
+Countie of Pem<g ref="char:EOLhyphen"/>brokeſhire: In diſcharge of his duty, and great truſt,
+importuned a preſent full meeting of the Commitree to deliberate upon the
+ſtate of the Countie, that the common good, which unreſerved, Impartiall
+Indge<g ref="char:EOLhyphen"/>men, with candor might take place, whereupon ſeverall meetings had, and
+obſtructions not admitting action, As advance money, Ordnance, Armes,
+Ammunition, with Clothes for the Souldiers, Sir <hi>Thomas Mid<g ref="char:EOLhyphen"/>dleton,</hi> and
+Colonell <hi>Maſſey,</hi> with two ſeverall parties, In places far
+di<g ref="char:EOLhyphen"/>ſtante, having entred, and infeſted parte of the Dominion of Wales with
+good ſucceſſe, and that pollicie of ſtate and War, Invited to
+Acti<g ref="char:EOLhyphen"/>tion, <pb facs="tcp:31809:4"/>
+               <!-- PDF PAGE 90 -->and gallantrie, to
+withdrawn the adjacent Forces from their in<g ref="char:EOLhyphen"/>gagements aganſt them, and to
+ſeize on all opportunities to compleate the great worke in Agetation; preſt
+to conſideration that if mony were not raiſed, to give life and action to
+the fouldiers, they deſervedly con<g ref="char:EOLhyphen"/>tracted the ſad reſentments, of the
+poor inhabitants dayly prayed on, by the Enemy, and expreſt in fact, his
+forwardneſſe, lending of his owne Eſtate; 200. l. Vpon the publike Faith,
+to invite them to open their hands, the which with continuate care, and toyle
+of him, further furniſhing them with men, Ordnance, Armes, and Ammunition
+with clothes for the ſouldiers of the States propertie.</p>
+            <p>IT was Ordered by the Major Generall (whoſe Innate genuin
+diſpoſi<g ref="char:EOLhyphen"/>tion moues to Action and Honour,) the 19. of September that the
+ſeverall Regiments, in his Army ſhould march to the place of Ran<g ref="char:EOLhyphen"/>dezuous,
+and foule weather and floods prevented till the 25. At which time two miles
+from Langhorne Caſtle the Army muſtered conſiſted of about 2500.
+Horſe and Foot, who were quartered within a mile of the ſaid Caſtle, 26.
+the Generall drew out a partie of 60. Horſe, and went himſelfe to view the
+Caſtle, who were charged by a like number from the Enemy; and gallantly
+received, who were foone forced to a diſ<g ref="char:EOLhyphen"/>orderly retreat where a Lieutenant
+and Cornet of the adverſe part, were taken priſoners with foure horſes,
+and ſeven troopers ſlaine, and but one of our men hurt, 29. the Caſtle
+fommoned, and a peremtory returne rendred, 200. Musketteers under valliant
+&amp; deſerving commanders, were deſigned to take poſſeſſion of the
+towne and Church, which was gained with proſperous ſucceſſe, and their
+approaches made neere to the gate<g ref="char:EOLhyphen"/>houſe of the Caſtle, ſeizing on the
+houſes not fare diſtance that night, planted their Artillery; and began the
+Batterie againſt the gatehouſe of the Caſtle, the next morning the Enemy
+ſhewed themſelves in two Battallias on a hill, in view of the Army and
+Caſtle, the G<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerall com<g ref="char:EOLhyphen"/>manded a
+partie of horſe to ente<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>taine
+them, and juſtifie the place, till the Army might be drawne up, upon which
+the Enemy faced about, and acquited the ground, in the morning following our
+men tooke the towne gate, which much favoured our Battery againſt the
+gatehouſe, and <pb facs="tcp:31809:5"/>
+               <!-- PDF PAGE 91 -->that day a good
+party of horſe under the conduct of the Generall faced Carmarthen, who
+returned without oppoſition, and the day following attempts were made to fire
+the gatehouſe, which took no place. On Saterday the Generall called a
+Councell of Warre, where was con<g ref="char:EOLhyphen"/>cluded that a partie that night, ſhould fall
+upon the gatehouſe, and the foot wherein the ſtrength of the Caſtle
+conſiſted, which was accord<g ref="char:EOLhyphen"/>ly performed, and after two or three houres of
+hot and deſperate ſervice, where the Commanders, and ſouldiers, gallantly
+demeaned themſelves, gained both, with great execution on the Enemy, and
+advanced to the walls of the Caſtle, upon which the partie in oppoſition
+beat up a parly, whereon a quarter was given only f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r their l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves, to depart
+without armes, where two great guns, three m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtherers; 160. Foot, armes<g ref="char:punc">▪</g>
+three barrells and a halfe of powder, 500. waight of ſmall ſhot, with great
+ſtore of proviſions were taken; And in the Caſtle was Lieu enant Collonel
+<hi>Ruſſell;</hi> the Owner, and Governour; M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jor <hi>Alſworth,</hi>
+Cap<g ref="char:EOLhyphen"/>taine <hi>Hincon,</hi> who was dangerouſly hurt, and Captaine
+<hi>Fittz,</hi> with a<g ref="char:EOLhyphen"/>bout 200. common ſouldiers, who all marched to
+Carmarthen) except Captaine <hi>Hincon</hi> whoſe wounds laid him by the Lee)
+the Enemy had another ſtrong hold called clogovarane about 4. miles
+diſtance, the which they preſently demolliſhed, burning what was
+combuſtable, and ſleight<g ref="char:EOLhyphen"/>ing their workes. Our partie loſt in the
+ſervice ten men, and had about thirty hurt, and tooke twenty priſoners and
+killed about forty, Captain <hi>Hincon</hi> wounded as aforeſaid, remaining
+in the Caſtle, reports that the Enemy will take the field, and about
+Carmarthen give us Battell, and ſaith they are not above 1200. horſe and
+foot, and it they be waſted, all muſt be rendred for loſt: Our Army are
+now preparing for their march to Carmarthen, and after the reducing of that
+place, with Gods aſſiſtance will in ſhort time be able to force a
+paſſage to Sir <hi>Thomas Mid<g ref="char:EOLhyphen"/>dleton.</hi> To God be aſcribed the glory
+and praiſe of his mercies.</p>
+            <closer>
+               <signed>Richard Swanley.</signed> 
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This is entred into the Hall Book according to Order of
+Parliament.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31809:5"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:31809:6"/>
+            <!-- PDF PAGE 92 -->
+         </div>
+      </body>
+   </text>
+</TEI>
